@@ -53,8 +53,8 @@ The project uses a student academic performance dataset to train regression mode
 ## Learning Outcomes
 Through this project, the following skills were practiced:
 
-Data preprocessing
-Building regression models
-Evaluating machine learning performance
-Working with supervised learning techniques
-Visualizing and interpreting prediction results
+- Data preprocessing
+-Building regression models
+-Evaluating machine learning performance
+-Working with supervised learning techniques
+-Visualizing and interpreting prediction results
