@@ -68,6 +68,5 @@ Through this project, the following skills were practiced:
 - Visualizing and interpreting prediction results
 - Applying regression algorithms using Scikit-learn
 - Understanding the end-to-end ML workflow
-
 Computer Engineering Student  
 Interested in AI, Machine Learning, Automation, and Intelligent Systems
