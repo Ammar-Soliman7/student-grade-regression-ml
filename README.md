@@ -1,9 +1,11 @@
 # Student Grade Regression using Machine Learning
 
 ## Project Overview
+
 This project applies Machine Learning regression techniques to predict student grades and academic performance using numerical and categorical educational data.
 
-The notebook demonstrates the complete machine learning pipeline including:
+The notebook demonstrates the complete machine learning workflow including:
+
 - Data preprocessing
 - Feature engineering
 - Regression model training
@@ -39,22 +41,33 @@ The objective is to predict continuous student performance values using supervis
 
 ## Project Workflow
 
-1. Import and explore dataset
-2. Clean and preprocess data
-3. Prepare input features
-4. Split data into training and testing sets
+1. Import and explore the dataset
+2. Clean and preprocess the data
+3. Prepare and engineer input features
+4. Split the dataset into training and testing sets
 5. Train regression models
 6. Evaluate prediction performance
-7. Visualize model results
+7. Visualize and analyze the results
+
+---
 
 ## Dataset
-The project uses a student academic performance dataset to train regression models capable of predicting student grades and performance outcomes.
+
+The project uses a student academic performance dataset to train regression models capable of predicting student grades and overall performance outcomes.
+
+---
 
 ## Learning Outcomes
+
 Through this project, the following skills were practiced:
 
-Data preprocessing
-Building regression models
-Evaluating machine learning performance
-Working with supervised learning techniques
-Visualizing and interpreting prediction results
+- Data preprocessing and cleaning
+- Building regression models
+- Evaluating machine learning performance
+- Working with supervised learning techniques
+- Visualizing and interpreting prediction results
+- Applying regression algorithms using Scikit-learn
+- Understanding the end-to-end ML workflow
+
+Computer Engineering Student  
+Interested in AI, Machine Learning, Automation, and Intelligent Systems
